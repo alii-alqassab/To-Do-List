@@ -29,5 +29,5 @@ A simple and intuitive To-Do List web application built using **Golang** for the
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/alii-alqassab/To-Do-List.git
    cd todo-list-app
